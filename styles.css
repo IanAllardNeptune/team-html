@@ -12,3 +12,12 @@ body {
   img {
         border: 3px solid #ffffff;
     }
+  a:link {
+    color: blue;
+  }
+  a:hover {
+    color: rosybrown;
+  }
+  a:visited {
+    color: burlywood;
+  }
